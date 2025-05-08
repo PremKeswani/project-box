@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-A C++ implementation of the classic Tic-Tac-Toe game with a modern build system using CMake.
+A C implementation of the classic Tic-Tac-Toe game with a modern build system using CMake.
 
 ## Features
 
