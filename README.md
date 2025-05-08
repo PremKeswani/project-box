@@ -81,7 +81,7 @@ To get started with any project:
 ## Recommended Book
 
 To get started with C programming, I recommend this comprehensive book:
-[The C Programming Language](https://amzn.to/4iX8FPl) - A must-have resource for learning C programming fundamentals and best practices.
+[The C Programming Language](https://amzn.to/3F2Y1Zl) - A must-have resource for learning C programming fundamentals and best practices.
 
 ## Learning Path
 
