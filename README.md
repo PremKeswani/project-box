@@ -78,6 +78,11 @@ To get started with any project:
 - Basic understanding of C/C++ programming
 - For network projects: understanding of basic networking concepts
 
+## Recommended Book
+
+To get started with C programming, I recommend this comprehensive book:
+[The C Programming Language](https://amzn.to/4iX8FPl) - A must-have resource for learning C programming fundamentals and best practices.
+
 ## Learning Path
 
 These projects are arranged in order of increasing complexity:
