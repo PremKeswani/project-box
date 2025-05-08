@@ -36,7 +36,17 @@ make
 After building, run the game:
 
 ```bash
-./tictactoe
+./server 8080
+```
+
+Now join as player1
+```bash
+./client localhost 8080
+```
+
+Now join as player2
+```bash
+./client localhost 8080
 ```
 
 ## Game Rules
