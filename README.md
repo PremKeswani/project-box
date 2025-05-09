@@ -43,7 +43,7 @@ A custom ping utility that covers:
 
 ### 6. [Tic-Tac-Toe](tic-tac-toe/)
 A classic game implementation that teaches:
-- C++ programming
+- Multiplayer game server 
 - Object-oriented design
 - Game logic
 - User input handling
