@@ -74,7 +74,7 @@ To get started with any project:
 - GCC compiler (for C projects)
 - G++ compiler (for C++ projects)
 - Make utility
-- CMake (for C++ projects)
+- CMake (for C/C++ projects)
 - Basic understanding of C/C++ programming
 - For network projects: understanding of basic networking concepts
 
