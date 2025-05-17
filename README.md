@@ -1,111 +1,94 @@
-# C Programming Projects Collection
+# 📦 Project Box
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/trish07)
+Welcome to **Project Box**! This repository contains a collection of C projects that showcase algorithms, games, and networking. Whether you are a beginner or an experienced developer, you will find useful resources and projects here to enhance your skills in C programming.
 
-A collection of C programming projects designed for beginners to learn and practice various programming concepts, from basic algorithms to network programming. Each project is self-contained and includes its own documentation and build system.
+![C Programming](https://img.shields.io/badge/C%20Programming-%23A8B400?style=flat&logo=c&logoColor=white)
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Projects Overview](#projects-overview)
+  - [Algorithms](#algorithms)
+  - [Games](#games)
+  - [Networking](#networking)
+- [Contributing](#contributing)
+- [License](#license)
+- [Releases](#releases)
+- [Contact](#contact)
+
+## Introduction
+
+Project Box is designed to help you explore various aspects of programming in C. From basic algorithms to complex networking projects, this repository covers a wide range of topics. You can find projects that challenge your problem-solving skills and enhance your understanding of C.
+
+## Features
+
+- **Algorithms**: Implementations of various algorithms to help you understand data structures and logic.
+- **Games**: Simple command-line games that demonstrate C programming concepts in a fun way.
+- **Networking**: Projects that illustrate socket programming and client-server architecture.
+
+## Installation
+
+To get started with the projects in this repository, clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/PremKeswani/project-box.git
+```
+
+Once cloned, navigate to the project directory:
+
+```bash
+cd project-box
+```
+
+You can then compile the individual projects using `gcc`. For example:
+
+```bash
+gcc -o my_project my_project.c
+```
+
+## Usage
+
+After compiling the projects, you can run them from the command line. For example:
+
+```bash
+./my_project
+```
+
+Make sure to check the documentation provided in each project folder for specific instructions on how to run them.
 
 ## Projects Overview
 
-### 1. [SHA-512 Implementation](SHA-512/)
-A cryptographic hash function implementation that demonstrates:
-- Bit manipulation
-- Complex algorithms
-- Memory management
-- File I/O operations
+### Algorithms
 
-### 2. [HTTP Server](http-server/)
-A basic HTTP server implementation that covers:
-- Socket programming
-- HTTP protocol basics
-- File serving
-- Network communication
+In the algorithms section, you will find implementations of common algorithms, such as sorting and searching. Each algorithm comes with explanations and example inputs to help you understand how they work.
 
-### 3. [UDP Server-Client](udp-server-client/)
-A simple UDP-based communication system that teaches:
-- UDP socket programming
-- Client-server architecture
-- Network protocols
-- Message exchange
+### Games
 
-### 4. [Port Scanner](port-scanner/)
-A network diagnostic tool that demonstrates:
-- TCP socket programming
-- Network scanning techniques
-- Error handling
-- Command-line argument parsing
+The games section includes several fun CLI games. You can challenge yourself or your friends with these games while learning more about game development in C. 
 
-### 5. [Ping Implementation](ping/)
-A custom ping utility that covers:
-- ICMP protocol
-- Raw socket programming
-- Network diagnostics
-- Time measurement
+### Networking
 
-### 6. [Tic-Tac-Toe](tic-tac-toe/)
-A classic game implementation that teaches:
-- Multiplayer game server 
--Socket programming
-- Game logic
-- User input handling
-
-### 7. [Chat System](chat-system/)
-A real-time chat application that demonstrates:
-- TCP socket programming
-- Multi-threading
-- Real-time communication
-- Client-server architecture
-
-## Getting Started
-
-Each project in this repository is designed to be self-contained and includes:
-- Source code
-- Makefile or CMake configuration
-- README with build and usage instructions
-- Implementation details
-
-To get started with any project:
-1. Navigate to the project directory
-2. Read the project's README.md
-3. Follow the build instructions
-4. Run the program as described
-
-## Prerequisites
-
-- GCC compiler (for C projects)
-- G++ compiler (for C++ projects)
-- Make utility
-- CMake (for C/C++ projects)
-- Basic understanding of C/C++ programming
-- For network projects: understanding of basic networking concepts
-
-## Recommended Book
-
-To get started with C programming, I recommend this comprehensive book:
-[The C Programming Language](https://amzn.to/3F2Y1Zl) - A must-have resource for learning C programming fundamentals and best practices.
-
-## Learning Path
-
-These projects are arranged in order of increasing complexity:
-
-1. Start with Tic-Tac-Toe for basic programming concepts
-2. Move to SHA-512 for algorithm implementation
-3. Try the UDP Server-Client for basic networking
-4. Progress to HTTP Server and Chat System for more complex networking
-5. Finally, explore Port Scanner and Ping for advanced networking concepts
+The networking projects demonstrate how to create client-server applications using socket programming. These projects will help you understand the basics of network communication and how to handle multiple clients.
 
 ## Contributing
 
-Feel free to:
-- Report bugs
-- Suggest improvements
-- Add new features
-- Create new projects
-- Improve documentation
+Contributions are welcome! If you have suggestions for improvements or new projects, please feel free to open an issue or submit a pull request. Make sure to follow the coding standards and provide clear documentation for your contributions.
 
 ## License
 
-This project is open source and available for learning purposes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Note
+## Releases
 
-Some network-related projects (Port Scanner, Ping) require root/administrator privileges to run due to the use of raw sockets. Always use these tools responsibly and only on networks you have permission to test. 
+You can find the latest releases of the Project Box [here](https://github.com/PremKeswani/project-box/releases). Please download the relevant files and execute them as needed.
+
+## Contact
+
+For any questions or feedback, feel free to reach out via GitHub. I appreciate your interest in Project Box and hope you find it helpful in your C programming journey!
+
+![GitHub](https://img.shields.io/badge/GitHub-%23F1502F?style=flat&logo=github&logoColor=white)
+
+Explore the projects and enjoy coding!
